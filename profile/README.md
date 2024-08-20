@@ -20,4 +20,4 @@ In this project, we aim to create an interface that allows users to easily inter
 ## Members
 | Emir Kaan Özdemir | Ahmet Erdem Pamuk | İlknur Yaren Karakoç |
 |:---:|:---:|:---:|
-<a href="https://github.com/emirkaanozdemr"></a> | <a href="https://github.com/ahmeterdempmk"></a> | Not |
+<a href="https://github.com/emirkaanozdemr">GitHub Profile</a> | <a href="https://github.com/ahmeterdempmk">GitHub Profile</a> | <a href="https://github.com/esholmess">GitHub Profile</a> |
