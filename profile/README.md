@@ -16,3 +16,8 @@ In this project, we aim to create an interface that allows users to easily inter
 ## Contact
 <a href="https://www.linkedin.com/company/lyra-ai-team/"><img weight="100" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkdhUAWbt5eOWbMDew-RRPLb_dVEBsJt96JBfLMUYLw&s"></a><br><br>
 <a href="https://www.instagram.com/ai.lyra/"><img weight="100" height="100" src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png"></a>
+
+## Members
+| Emir Kaan Özdemir | Ahmet Erdem Pamuk | İlknur Yaren Karakoç |
+|:---:|:---:|:---:|
+<a href="https://github.com/emirkaanozdemr"></a> | <a href="https://github.com/ahmeterdempmk"></a> | Not |
